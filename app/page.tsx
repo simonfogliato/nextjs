@@ -54,6 +54,9 @@ export default function Home() {
           width={500}
           priority
         />
+      </div>
+
+      <div className="relative flex place-items-center">
         <Image
           className="relative"
           src="/arch3.png"
