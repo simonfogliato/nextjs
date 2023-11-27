@@ -44,32 +44,28 @@ export default function Home() {
           className="relative"
           src="/arch1.png"
           alt="Arch 1"
-          width={180}
-          height={37}
+          width={500}
           priority
         />
         <Image
           className="relative"
           src="/arch2.png"
           alt="Arch 2"
-          width={180}
-          height={37}
+          width={500}
           priority
         />
         <Image
           className="relative"
           src="/arch3.png"
           alt="Arch 3"
-          width={180}
-          height={37}
+          width={500}
           priority
         />
         <Image
           className="relative"
           src="/arch4.png"
           alt="Arch 4"
-          width={180}
-          height={37}
+          width={500}
           priority
         />
       </div>
